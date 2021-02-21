@@ -11,6 +11,3 @@ install:
 
 script:
   - tox -v -e py
-
-install:
-  - pipenv install --dev --ignore-pipfile --deploy

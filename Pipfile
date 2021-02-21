@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-blessings = "*"
-check-manifest = "*"
 tox = "*"
+helloworld-nik12 = {editable = true, path = "."}
 
 [dev-packages]
 pytest = ">=3.7"
