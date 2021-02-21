@@ -1,5 +1,7 @@
 # Hello World
 
+[![Build Status](https://travis-ci.com/nikhar1210/helloworld_PyPI.svg?branch=main)](https://travis-ci.com/nikhar1210/helloworld_PyPI)
+
 This is an example project demonstrating how to publish a python module tp PyPI
 
 
